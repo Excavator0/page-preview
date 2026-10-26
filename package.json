@@ -1,0 +1,19 @@
+{
+  "name": "@excavator0/page-preview",
+  "version": "1.0.0",
+  "description": "Веб-компонент предпросмотра HTML-страницы",
+  "type": "module",
+  "exports": "./src/page-preview.js",
+  "main": "./src/page-preview.js",
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "author": "Ruslan Aukhadyev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Excavator0/page-preview.git"
+  },
+  "sideEffects": true
+}
